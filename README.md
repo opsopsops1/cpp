@@ -1,2 +1,2 @@
 # cpp
-OOP and practice CP
+OOP and CP
